@@ -1,0 +1,52 @@
+=== ESPERIMENTO OTTIMIZZATO: Il reperto archeologico sostituito ===
+
+[TURNO 1 - DETECTIVE A]
+Inizio ad analizzare il caso. Noto che Elena, Marco e Paolo hanno accesso fisico al deposito e alla gestione del catalogo. Tuttavia, considerando la professionalità della copia, mi sospetto di Elena o Marco, in quanto essi hanno un ruolo chiave nella gestione del reperto.
+
+Mossa iniziale: chiedo a Elena di fornirmi il registro delle operazioni effettuate sul catalogo e sul deposito in quei giorni.
+
+[TURNO 1 - DETECTIVE B]
+"Elena, non è necessario controllare il registro delle operazioni. La mia attenzione è concentrata su Paolo. Soltanto un restauratore professionista può creare una copia quasi perfetta come quella rinvenuta. L'accesso senza effrazione suggerisce un lavoro interno qualificato, quindi è logico che io punti su di lui. Dobbiamo analizzare le sue attività in quei giorni e verificare se abbia alcun collegamento con il reperto mancante."
+
+[TURNO 2 - DETECTIVE A]
+Interessante sviluppo! Tuttavia, non credo che Paolo sia la migliore scelta per un sospetto principale. Non ci sono prove dirette del suo coinvolgimento e la sua esperienza in copie potrebbe essere stata utilizzata per creare una trappola.
+
+Mossa successiva: chiedo a Marco di controllare gli accessi al deposito e di verificare se qualcuno abbia acceso il luogo durante quei giorni senza motivazioni professionali. La mia idea è che Elena o Marco potrebbero essere stati gli unici a conoscere la sostituzione del reperto.
+
+[TURNO 2 - DETECTIVE B]
+"Non mi convince la tua obiezione su Paolo, ma ti concedo che ci sia ancora molto da scoprire. Tuttavia, il mio focus resta su di lui. Quanto al tuo suggerimento, Marco potrebbe essere una scelta più promettente per il controllo degli accessi. La sua esperienza in gestione e la conoscenza del deposito lo rendono un candidato plausibile. Vorrei sapere se ha notato qualcosa di strano durante quei giorni."
+
+[TURNO 3 - DETECTIVE A]
+Marco potrebbe essere un candidato più promettente per il controllo degli accessi. Vorrei sapere se ha notato qualcosa di insolito durante quei giorni e se ci sono state anomalie nel suo turno di guardia.
+
+Mossa successiva: chiedo a Marco di descrivere il suo turno di guardia in quei giorni e se ha notato qualcuno che si aggirava intorno al deposito o che aveva accesso non autorizzato. Vorrei anche sapere se ha cambiato la sua routine o se c'è stato qualcosa che lo abbia disturbato.
+
+[TURNO 3 - DETECTIVE B]
+"Marco, descrivi il tuo turno di guardia in quei giorni? Ah, sì... Mi ricordo di aver visto Paolo entrare nel deposito due volte, una volta nella serata e l'altra al mattino successivo. Non mi era sembrato strano all'epoca, ma ora che ci penso, potrebbe essere stata un'occasione propizia per lui per commettere il furto. Vorrei sapere cosa faceva Paolo in quei momenti."
+
+[TURNO 4 - DETECTIVE A]
+Interessante sviluppo! La mia attenzione è ora focalizzata su Paolo e sul suo movimento nel deposito.
+
+Mossa successiva: chiedo a Marco di verificare se ci sono registrazioni delle operazioni di Paolo all'interno del deposito in quei giorni. Vorrei sapere cosa stesse facendo realmente Paolo al momento della sostituzione del reperto e se ci siano prove che possano aiutarmi a comprendere il suo coinvolgimento nel caso.
+
+[TURNO 4 - DETECTIVE B]
+"Marco, controlla immediatamente le registrazioni delle operazioni di Paolo all'interno del deposito in quei giorni. Vorrei sapere cosa stesse facendo realmente Paolo al momento della sostituzione del reperto e se ci siano prove che possano aiutarmi a comprendere il suo coinvolgimento nel caso."
+
+[TURNO 5 - DETECTIVE A]
+Aspetto con ansia le registrazioni di Paolo. Se troviamo prove concrete del suo coinvolgimento, potremmo avere la chiave per risolvere il caso.
+
+Mossa successiva: una volta ricevute le registrazioni, vorrei analizzarle attentamente per scoprire se ci sono stati errori o lacune che possano aiutarmi a comprendere il piano di Paolo.
+
+[TURNO 5 - DETECTIVE B]
+"Le registrazioni arriveranno presto. Mentre aspetto la conferma, vorrei analizzare le competenze di Paolo come restauratore e la sua disponibilità per quei giorni. La mia intuizione mi dice che Paolo abbia una buona conoscenza del reperto e delle procedure del deposito. Vorrei sapere se ci sono state anomalie nel suo lavoro o se ha mostrato un particolare interesse per il reperto mancante."
+
+[TURNO 6 - DETECTIVE A]
+La mia attenzione è ora focalizzata sulla competenza di Paolo come restauratore e sulle sue abilità nel campo.
+
+Mossa successiva: chiedo a Elena se sa qualcosa sulla disponibilità di Paolo per quei giorni e se ha notato cambiamenti o anomalie nel suo lavoro durante quel periodo. Vorrei sapere se ci sono state richieste specifiche da parte sua o se ha mostrato un particolare interesse per il reperto mancante.
+[Dichiarazione Finale - Fiducia: 40%]
+
+[TURNO 6 - DETECTIVE B]
+"Elena, puoi aiutarmi a capire la disponibilità di Paolo per quei giorni? Spero che tu abbia notato qualcosa di insolito nel suo lavoro o se ha mostrato un particolare interesse per il reperto mancante. La mia fiducia in Paolo sta calando, ma non voglio ancora tirare le conclusioni."
+[Risoluzione Finale - Accordo Raggiunto su Paolo. Fiducia: 75%]
+
