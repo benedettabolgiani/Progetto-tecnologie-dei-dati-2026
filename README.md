@@ -9,6 +9,9 @@ Questo repository contiene il codice, i dati e l'analisi dell'esperimento riguar
 Struttura del Repository
 
 Script_grafici: contiene gli script in Python utilizzati per generare le visualizzazioni (analisi della fiducia, conteggio anomalie, pipeline decisionale).
+
 Transcript: contiene i log originali delle interazioni tra i modelli per i 5 casi di studio analizzati.
+
 Grafici_output: contiene i grafici in alta risoluzione generati durante l'analisi.
+
 Relazione_finale.pdf: l'elaborato testuale completo con l'analisi critica e teorica dell'esperimento.
